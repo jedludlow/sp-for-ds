@@ -1,2 +1,3 @@
 # sp-for-ds
-Signal processing for data scientists
+
+A quick introduction to signal processing for data scientists.

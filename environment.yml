@@ -1,0 +1,14 @@
+name: sp-for-ds
+channels:
+  - conda-forge
+  - damianavila82
+dependencies:
+  - python=3.6
+  - numpy
+  - scipy
+  - matplotlib
+  - ipykernel
+  - ipympl
+  - pandas
+  - rise
+  - seaborn
